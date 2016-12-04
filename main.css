@@ -1,0 +1,50 @@
+header {
+	background-color: #009999;
+	color: #fff;
+	padding-bottom: 20px;
+	padding-top: 5px;
+	text-align: center;
+}
+h1 {
+	font-size: 60px;
+	letter-spacing: 5px
+}
+.poem {
+	font-size: 20px;
+	/*color: #fff;*/
+	/*text-shadow: 4px 4px 3px rgba(0,0,0,0.1); */
+	/*font-weight: lighter;*/
+}
+div {
+	background-color: #00e6e6;
+}
+div#photos {
+	padding-top: 30px;
+}
+div#photos a {
+	text-decoration: none;
+}
+
+div#photos img {
+border: 3px solid #fff;
+}
+
+div#zoom{
+
+}
+
+footer {
+	height: 100px;
+	background-color: #004d4d;
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 25px;
+}
+body {
+	background-color: #f0f0f5;
+	font: 400 100px/1.3 'Lobster Two', Helvetica, sans-serif;
+  	text-shadow: 1px 1px 0px #ededed, 4px 4px 0px rgba(0,0,0,0.15);
+	font-style: italic;
+	letter-spacing: 2px
+}
